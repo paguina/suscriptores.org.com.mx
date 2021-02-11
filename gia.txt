@@ -1,0 +1,35 @@
+hacer enlace
+
+ <a href="***enlece***"  title="***nomre a llamar**** ">***vinculo a apretar *****</a>
+
+poner imagen
+
+<img alt="imagen html de ejemplo" src="****.jpg" width="100" height="100" />
+
+poner icono
+
+<link rel="**** icon" type="imge/icon"  href="****.jpg">
+
+hacer mas grande la letra color y tipografia 
+   
+<font size=4  color="red" face="arial" >Este texto es más grande</font> 
+
+LETRA CURSIVA
+<i>LETRA CURSIVA</i>
+
+MAS ANCHA
+<em>Emphasized</em>
+
+TEXTO EN CODE
+<code>TEXTO EN CODE.</code>
+
+TEXTO EN NEGRITA
+<b>El texto</b>
+
+AUDIO
+
+<audio controls>
+	<source src="AUDIO A SONAR">
+	<source src="AUDIO A DESCRAGAR">
+	
+</audio>
